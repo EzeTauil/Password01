@@ -25,7 +25,7 @@ El programa cuenta con una interfaz gráfica para que sea de facíl uso para el 
  Password Generator  es de código abierto con un [public repository][dill]
  on GitHub.
 
-## Installation
+## Instalación
 
 Password Generator require [Python](https://www.python.org/) v3.10.0+ corre.
 
