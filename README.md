@@ -15,7 +15,7 @@ El programa cuenta con una interfaz gráfica para que sea de facíl uso para el 
 - Tkinter
 - Python
 
-## Funciones
+## Módulos
 
 - Importar Tkinter para tener una consola gráfica
 - Importar random 
