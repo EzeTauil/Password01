@@ -39,5 +39,7 @@ Instale las dependencias.
 
 > Al ejecutar el programa automaticamente se abrirá una minipantalla (consola) donde se verán dos botones, uno que dice "GENERAR" y otro "CERRAR", al precionar en el botón "GENERAR" saldrá la Password debajo del botón "CERRAR" y si preciona de nuevo "GENERAR" se generará otra nuevamente, si quiere cerrar el programa simplemente debe precionar el botón "CERRAR".
 Adjunto de imagenes:
+
+|
 ![Captura de pantalla (2)](https://user-images.githubusercontent.com/118028611/204071397-a926146e-53f3-48ec-a729-dffee4b9b3ba.png) |
 ![Captura de pantalla (4)](https://user-images.githubusercontent.com/118028611/204071402-a0339b6e-a1b0-4be0-be5d-41337bc3be21.png) |
