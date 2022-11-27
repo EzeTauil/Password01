@@ -24,13 +24,13 @@ El programa cuenta con una interfaz gráfica para que sea de facíl uso para el 
 
 ## Instalación
 
-Password Generator require [Python](https://www.python.org/) v3.10.0+ corre.
+Password Generator require [Python](https://www.python.org/) v3.10.0 ó superior .
 
 Instale las dependencias:
 
-[Tkinter](https://https://docs.python.org/es/3/library/tkinter.html)
-[Módulo random](https://https://docs.python.org/es/3/library/random.html?highlight=random#module-random)
-[Módulo string](https://https://docs.python.org/es/3/library/string.html)
+|[Tkinter](https://docs.python.org/es/3/library/tkinter.html)|
+|[Módulo random](https://docs.python.org/es/3/library/random.html?highlight=random#module-random)|
+|[Módulo string](https://docs.python.org/es/3/library/string.html)|
 
 ### Funcionamiento del programa
 
